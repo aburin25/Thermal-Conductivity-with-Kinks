@@ -1,4 +1,4 @@
-Evaluation of thermal conductivity 
+Evaluation of thermal conductivity (Matlab files are in Codes.zip archive)_
 
 matlab file: ThermCondKinksRealDefRestr.m - calculates thermal conductivity as integrated transmission. 
 
